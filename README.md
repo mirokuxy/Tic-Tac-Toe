@@ -13,6 +13,7 @@ $ yarn install
 $ npm start
 ```
 
-
+### Demo
+![demo](images/game.png)
 
 
